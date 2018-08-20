@@ -2,7 +2,7 @@
 
 ### Simple Responsive Portfolio
 
-Screenshots
+#### Screenshots
 
 ![s1](https://user-images.githubusercontent.com/38126257/44362922-31cdca80-a4e0-11e8-9d0f-12182d597d5b.PNG)
 
